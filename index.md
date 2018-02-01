@@ -1,5 +1,6 @@
 ---
 layout: home
+title: home
 ---
 
 # L'équipe MOCS de Lab-STICC à l'ENSTA Bretagne
