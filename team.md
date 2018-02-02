@@ -22,6 +22,7 @@ order: 2
 
 | ![Fatma](/images/people/fatma_zarka.jpg){:class="avatar"} Fatma ZARKA
 | ![Nicolas](/images/people/nicolas_tithnara_sun.jpg){:class="avatar"} Tithnara Nicolas SUN
+| ![Hannah](/images/people/boenning_hannah.jpg){:class="avatar"} Hannah BOENNING
 | ![Valentin](/images/people/valentin.jpg){:class="avatar"} [Valentin BESNARD](https://www.researchgate.net/profile/Valentin_Besnard)
 | ![Cyrielle](/images/people/cyrielle_feron.jpg){:class="avatar"} Cyrielle FERON
 | ![Bastien](/images/people/bastien_drouot.jpg){:class="avatar"} Bastien DROUOT
