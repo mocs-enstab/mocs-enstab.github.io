@@ -10,7 +10,7 @@ Some research areas addressed by the Lab-STICC/MOCS team at ENSTA Bretagne are:
 - Federation-based model-driven system design (*Role4All*)
 - Environment-driven critical system verification ([*OBP*](http://www.obpcdl.org/))
 - Modular online/offline diagnosis for IoT and critical systems ([*Pluggable-OBP*](https://plug-obp.github.io/))
-- Model-based high-level synthesis (*Newage*)
+- Hardware/software system-level modeling, simulation and synthesis (*Newage*)
 - Reconfigurable SoC architecture modeling & design (*Biniou, Madeo*).
 
 The team has access to a *heterogeneous high-performance cyber-research

@@ -5,7 +5,7 @@ order: 4
 ---
 
 # Thèses en cours
-
+- [Hannah](/projects/)
 - [Nicolas](/projects/departs)
 - [Cyrielle](/projects/ease4se)
 - [Fatma](/projects/verimob)
@@ -13,4 +13,4 @@ order: 4
 
 # Thèses soutenues
 
-- [Theotime](/projects/obsolescence)
+- [Theotime](/projects/)
