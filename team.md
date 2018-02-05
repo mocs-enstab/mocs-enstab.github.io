@@ -13,12 +13,12 @@ order: 2
 | ![Loïc](/images/people/loic.jpeg){:class="avatar"} Loïc LAGADEC | ![Philippe](/images/people/Philippe.jpg){:class="avatar"} [Philippe DHAUSSY](http://www.ensta-bretagne.fr/dhaussy) |
 | ![Joël](/images/people/joel.jpeg){:class="avatar"} Joël CHAMPEAU | ![Jean-Christophe](/images/people/jean-christophe.jpg){:class="avatar"} [Jean-Christophe LE LANN](http://www.jcll.fr/)
 
-# Ingenieurs de recherche
+# Research Engineers
 
 | ![Luka](/images/people/luka.png){:class="avatar"} Luka LE ROUX | ![Jean-Charles](/images/people/jean-charles.jpeg){:class="avatar"} [Jean-Charles ROGER](https://www.linkedin.com/in/jeancharlesroger)
 | ![Sana](/images/people/sana_ben_nasr.jpg){:class="avatar"} Sana BEN NASR
 
-# Doctorants
+# PhD Students
 
 | ![Fatma](/images/people/fatma_zarka.jpg){:class="avatar"} Fatma ZARKA
 | ![Nicolas](/images/people/nicolas_tithnara_sun.jpg){:class="avatar"} Tithnara Nicolas SUN
