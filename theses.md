@@ -6,7 +6,7 @@ published: false
 ---
 
 # Thèses en cours
-
+- [Hannah](/theses)
 - [Nicolas](/theses)
 - [Cyrielle](/theses)
 - [Fatma](/theses)
@@ -15,3 +15,4 @@ published: false
 # Thèses soutenues
 
 - [Theotime](/theses)
+
