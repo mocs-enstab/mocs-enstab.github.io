@@ -3,7 +3,7 @@ layout: home
 title: home
 ---
 
-# L'équipe MOCS de Lab-STICC à l'ENSTA Bretagne
+# L'équipe [MOCS](https://www.labsticc.fr/en/teams/m-10-mocs.htm){:target="_blank"} de [Lab-STICC](https://www.labsticc.fr){:target="_blank"} à l'[ENSTA Bretagne](http://www.ensta-bretagne.fr/){:target="_blank"}
 
 Some research areas addressed by the Lab-STICC/MOCS team at ENSTA Bretagne are:
 
