@@ -17,9 +17,3 @@ The team has access to a *heterogeneous high-performance cyber-research
 platform* enabling industrial-scale quantitative and qualitative experimental studies.
 
 ![simu](images/mocs_in_labsticc.png){:height="200px" .right}
-<style>
-    .right {
-        display: block;
-        float: right;
-    }
-<style>
