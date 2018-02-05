@@ -2,7 +2,6 @@ title:  MOCS @ ENSTA Bretagne
 description: Lab-STICC MOCS @ ENSTA Bretagne
 google_analytics: 
 show_downloads: false
-theme: minima
 baseurl: ""
 url: "http://mocs.ensta-bretagne.fr"
 
@@ -15,4 +14,5 @@ kramdown:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
 
