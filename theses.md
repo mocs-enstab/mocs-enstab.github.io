@@ -2,15 +2,16 @@
 layout: page
 title: phd
 order: 4
+published: false
 ---
 
 # Thèses en cours
 
-- [Nicolas](/projects/departs)
-- [Cyrielle](/projects/ease4se)
-- [Fatma](/projects/verimob)
-- [Valentin](/projects/spectra)
+- [Nicolas](/theses)
+- [Cyrielle](/theses)
+- [Fatma](/theses)
+- [Valentin](/theses)
 
 # Thèses soutenues
 
-- [Theotime](/projects/obsolescence)
+- [Theotime](/theses)
