@@ -6,7 +6,7 @@ order: 3
 
 # Safe eXecution from models to hardware.
 
-![Axes](/images/compas_all_details.png){: .center-image}
+![Axes](/images/overview.png){: .center-image}
 
 ## Software Tools
 
