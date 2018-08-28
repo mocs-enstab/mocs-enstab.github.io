@@ -15,7 +15,7 @@ order: 2
 
 # Research Engineers
 
-| ![Luka](/images/people/luka.png){:class="avatar"} Luka LE ROUX
+| ![Luka](/images/people/luka.png){:class="avatar"} Luka LE ROUX | ![Theotime](/images/people/theotime_bollengier.jpg){:class="avatar"} Théotime BOLLENGIER
 
 # PhD Students
 
@@ -34,6 +34,5 @@ order: 2
 | ![Fadi](/images/people/fadi_obeid.jpg){:class="avatar"} Fadi OBEID
 | ![Jean-Charles](/images/people/jean-charles.jpeg){:class="avatar"} [Jean-Charles ROGER](https://www.linkedin.com/in/jeancharlesroger)
 | ![Sana](/images/people/sana_ben_nasr.jpg){:class="avatar"} Sana BEN NASR
-| ![Theotime](/images/people/theotime_bollengier.jpg){:class="avatar"} Théotime BOLLENGIER
 | ![Mohamad](/images/people/mohamad_najem.jpg){:class="avatar"} Mohamad NAJEM
 | ![Zoe](/images/people/zoe.drey.jpg){:class="avatar"} Zoe DREY
