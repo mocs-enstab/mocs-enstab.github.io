@@ -6,11 +6,11 @@ order: 2
 
 # Current Members
 
-| ![Cip](/images/people/cip.jpeg){:class="avatar"} [Ciprian TEODOROV](http://www.ensta-bretagne.fr/teodorov) |
+| ![Cip](/images/people/cip.jpeg){:class="avatar"} [Ciprian TEODOROV](https://www.ensta-bretagne.fr/teodorov) |
 :--:|:--------------:
 |
 
-| ![Loïc](/images/people/loic.jpeg){:class="avatar"} Loïc LAGADEC | ![Philippe](/images/people/Philippe.jpg){:class="avatar"} [Philippe DHAUSSY](http://www.ensta-bretagne.fr/dhaussy) |
+| ![Loïc](/images/people/loic.jpeg){:class="avatar"} [Loïc LAGADEC](https://www.ensta-bretagne.fr/lagadec/) | ![Philippe](/images/people/Philippe.jpg){:class="avatar"} [Philippe DHAUSSY](https://www.ensta-bretagne.fr/dhaussy) |
 | ![Joël](/images/people/joel.jpeg){:class="avatar"} Joël CHAMPEAU | ![Jean-Christophe](/images/people/jean-christophe.jpg){:class="avatar"} [Jean-Christophe LE LANN](http://www.jcll.fr/)
 
 # Research Engineers
