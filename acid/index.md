@@ -2,7 +2,7 @@
 layout: home
 ---
 
-ACID
+<h1>ACID</h1>
 
 Conception et **A**nalyse de Systèmes de **C**ontrôle **I**ndustriels : **D**SL et **D**iagnostique
 
