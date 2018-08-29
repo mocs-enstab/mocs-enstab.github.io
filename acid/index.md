@@ -8,7 +8,7 @@ Conception et **A**nalyse de Systèmes de **C**ontrôle **I**ndustriels : **D**S
 
 [Overview](Verification-MOCS_180531.pptx)
 
-## Participants
+## Membres
 
 | **Ciprian Teodorov** | **Florent Frizon de Lamotte**
 | Joel Champeau | Thomas Toublanc
@@ -34,9 +34,9 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 - Vétronique
 - Domotique pour l'aide à la personne
   
-
-
 ## Journée ACID 31/05/2018
+
+Journée ACID organisée à l'ENSTA Bretagne.
 
 ### Participants
 
@@ -44,7 +44,7 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 - Florent Frizon De Lamotte : [Architectures de Contrôle Commande Hétérogènes Distribuées](ensta_180531/PresentationACID_20180531_FdL.pdf)
 - Pierre Bomel
 - Thomas Toublanc : [Actuator Sensor Securing over Industrial Networks](ensta_180531/pres_Syleps_04-06-2018.pdf)
-- Philippe Dhaussy
+- Philippe Dhaussy : [Modélisation et validation formelle d’architectures logicielles basées sur les patrons de sécurité](ensta_180531/valid_ArchiSecu_ACID_14juin18.pdf)
 - Vincent Ribaud
-- Joel Champeau
+- Joel Champeau : [Analyse de la menace et Fédération de modèles](ensta_180531/FederationOfFederation-13-06-18.pptx)
 - Pascal Berruet
