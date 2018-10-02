@@ -8,6 +8,8 @@ Conception et **A**nalyse de Systèmes de **C**ontrôle **I**ndustriels : **D**S
 
 [Overview](Verification-MOCS_180531.pptx)
 
+ **email membres permanents :** [lab-sticc-cacs-mocs-acid@imt-atlantique.fr](lab-sticc-cacs-mocs-acid@imt-atlantique.fr)
+
 ## Membres
 
 | **Ciprian Teodorov** | **Florent Frizon de Lamotte**
