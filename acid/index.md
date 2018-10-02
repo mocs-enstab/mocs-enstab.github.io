@@ -11,9 +11,13 @@ Conception et **A**nalyse de Systèmes de **C**ontrôle **I**ndustriels : **D**S
 ## Membres
 
 | **Ciprian Teodorov** | **Florent Frizon de Lamotte**
-| Joel Champeau | Thomas Toublanc
+| Joel Champeau | Mounir Lallali
 | Philippe Dhaussy | Pascal Berruet
 | Vincent Ribaud | Pierre Bomel
+
+## Doctorants et Ingénieurs de recherche
+
+- Thomas Toublanc
 
 
 [comment]: ## Motivations
