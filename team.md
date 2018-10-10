@@ -19,7 +19,6 @@ order: 2
 
 # PhD Students
 
-| ![Fatma](/images/people/fatma_zarka.jpg){:class="avatar"} Fatma ZARKA
 | ![Nicolas](/images/people/nicolas_tithnara_sun.jpg){:class="avatar"} Tithnara Nicolas SUN
 | ![Hannah](/images/people/boenning_hannah.jpg){:class="avatar"} Hannah BOENNING
 | ![Valentin](/images/people/valentin.jpg){:class="avatar"} [Valentin BESNARD](https://www.researchgate.net/profile/Valentin_Besnard)
@@ -31,6 +30,7 @@ order: 2
 
 # Past Members
 
+| ![Fatma](/images/people/fatma_zarka.jpg){:class="avatar"} Fatma ZARKA
 | ![Fadi](/images/people/fadi_obeid.jpg){:class="avatar"} Fadi OBEID
 | ![Jean-Charles](/images/people/jean-charles.jpeg){:class="avatar"} [Jean-Charles ROGER](https://www.linkedin.com/in/jeancharlesroger)
 | ![Sana](/images/people/sana_ben_nasr.jpg){:class="avatar"} Sana BEN NASR
