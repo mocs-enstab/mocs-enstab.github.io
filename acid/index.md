@@ -40,6 +40,10 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 - Vétronique
 - Domotique pour l'aide à la personne
   
+## Séminaire Scientifique 1
+
+- Besnard Valentin [Unified LTL Verification and Embedded Execution of UML Models](/assets/Scientific_Seminar___ACID_ValentinBesnard.pdf)
+
 ## Journée ACID 31/05/2018
 
 Journée ACID organisée à l'ENSTA Bretagne.
