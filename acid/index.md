@@ -40,11 +40,7 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 - Vétronique
 - Domotique pour l'aide à la personne
 
-## Réunion MOCS - PASS 3/12/2018
-
-[Présentation ACID](/assets/MOCS_ACID_181202.pptx)
-
-## Séminaire Scientifique 2
+## Séminaire Scientifique 2 | 4/12/2018
 
 - Florent de La Motte [Moyens de Virtualisation sur la
 plate-forme SCAP](/assets/Scientific_Seminar___ACID_MoyensVirtualisationSCAP.pdf)
@@ -59,8 +55,14 @@ plate-forme SCAP](/assets/Scientific_Seminar___ACID_MoyensVirtualisationSCAP.pdf
 - Emilien Fournier
 - Jöel Champeau
 - Ciprian Teodorov
+
+
+## Réunion MOCS - PASS | 3/12/2018
+
+[Présentation ACID](/assets/MOCS_ACID_181202.pptx)
+
   
-## Séminaire Scientifique 1
+## Séminaire Scientifique 1 | 23/10/2018
 
 - Besnard Valentin [Unified LTL Verification and Embedded Execution of UML Models](/assets/Scientific_Seminar___ACID_ValentinBesnard.pdf)
 
@@ -77,7 +79,7 @@ plate-forme SCAP](/assets/Scientific_Seminar___ACID_MoyensVirtualisationSCAP.pdf
 - Bastian Drouot
 - Matthias ...
 
-## Journée ACID 31/05/2018
+## Journée ACID | 31/05/2018
 
 Journée ACID organisée à l'ENSTA Bretagne.
 
