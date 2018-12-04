@@ -44,7 +44,17 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 
 - Florent de La Motte [Moyens de Virtualisation sur la
 plate-forme SCAP](/assets/Scientific_Seminar___ACID_MoyensVirtualisationSCAP.pdf)
-- 
+
+### Participants
+
+- Valentin Besnard
+- Florent Lamotte
+- Théotime Bollengier
+- Nicolas Sun
+- Bastien Drouot
+- Emilien Fournier
+- Jöel Champeau
+- Ciprian Teodorov
   
 ## Séminaire Scientifique 1
 
