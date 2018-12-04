@@ -40,6 +40,10 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 - Vétronique
 - Domotique pour l'aide à la personne
 
+## Réunion MOCS - PASS 3/12/2018
+
+[Présentation ACID](/assets/MOCS_ACID_181202.pptx)
+
 ## Séminaire Scientifique 2
 
 - Florent de La Motte [Moyens de Virtualisation sur la
