@@ -39,10 +39,29 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 - Usine du futur
 - Vétronique
 - Domotique pour l'aide à la personne
+
+## Séminaire Scientifique 2
+
+- Florent de La Motte [Moyens de Virtualisation sur la
+plate-forme SCAP](/assets/Scientific_Seminar___ACID_MoyensVirtualisationSCAP.pdf)
+- 
   
 ## Séminaire Scientifique 1
 
 - Besnard Valentin [Unified LTL Verification and Embedded Execution of UML Models](/assets/Scientific_Seminar___ACID_ValentinBesnard.pdf)
+
+### Participants
+
+- Valentin Besnard
+- Florent Lamotte
+- Mounir Lallali
+- Vincent Ribaud
+- Philippe Dhaussy
+- Joel Champeau
+- Ciprian Teodorov
+- Nicolas Sun
+- Bastian Drouot
+- Matthias ...
 
 ## Journée ACID 31/05/2018
 
