@@ -40,10 +40,15 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 - Vétronique
 - Domotique pour l'aide à la personne
 
+## Séminaire Scientifique 3 | 06/02/2019
+
+- Florent de Lamotte [Moyens de Virtualisation sur la
+plate-forme SCAP](/assets/Scientific_Seminar___ACID_graiet-mohamed_seminaire_1902.pdf)
+
 ## Séminaire Scientifique 2 | 4/12/2018
 
 - Florent de Lamotte [Moyens de Virtualisation sur la
-plate-forme SCAP](/assets/Scientific_Seminar___ACID_MoyensVirtualisationSCAP.pdf)
+plate-forme SCAP](/assets/Scientific_Seminar___ACID_MoyensVirtualisationSCAP_1812.pdf)
 
 ### Participants
 
@@ -64,7 +69,7 @@ plate-forme SCAP](/assets/Scientific_Seminar___ACID_MoyensVirtualisationSCAP.pdf
   
 ## Séminaire Scientifique 1 | 23/10/2018
 
-- Besnard Valentin [Unified LTL Verification and Embedded Execution of UML Models](/assets/Scientific_Seminar___ACID_ValentinBesnard.pdf)
+- Besnard Valentin [Unified LTL Verification and Embedded Execution of UML Models](/assets/Scientific_Seminar___ACID_ValentinBesnard_1811.pdf)
 
 ### Participants
 
