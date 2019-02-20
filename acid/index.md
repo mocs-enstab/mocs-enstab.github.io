@@ -42,8 +42,9 @@ Gestion de la **hétérogénéité** et la prise en compte des **incertitudes de
 
 ## Séminaire Scientifique 3 | 06/02/2019
 
-- Florent de Lamotte [Moyens de Virtualisation sur la
-plate-forme SCAP](/assets/Scientific_Seminar___ACID_graiet-mohamed_seminaire_1902.pdf)
+- Mohamed Graiet [Approche formelle pour la
+vérification de la composition et la
+sécurité de logiciels](/assets/Scientific_Seminar___ACID_graiet-mohamed_1902.pdf)
 
 ## Séminaire Scientifique 2 | 4/12/2018
 
