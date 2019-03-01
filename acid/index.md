@@ -7,6 +7,7 @@ layout: home
 Conception et **A**nalyse de Systèmes de **C**ontrôle **I**ndustriels : **D**SL et **D**iagnostique
 
 [Overview 24/01/2019](/assets/MOCS-ACID_190124.pptx)
+
 [Overview 31/05/2018](Verification-MOCS_180531.pptx)
 
  **email membres permanents :** [lab-sticc-cacs-mocs-acid@imt-atlantique.fr](lab-sticc-cacs-mocs-acid@imt-atlantique.fr)
